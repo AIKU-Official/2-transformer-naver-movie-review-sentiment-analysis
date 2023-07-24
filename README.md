@@ -1,4 +1,4 @@
-# 2-transformer-naver-movie-review-sentiment-analysis
+# 2. Transformer, Naver Movie Review Sentiment Analysis
 Programming Assignment "2. Transformer, Naver Movie Review Sentiment Analysis" for 2023 Summer DeepIntoDeep
 
 
